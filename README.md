@@ -2,6 +2,10 @@
 
 Check my portfolio [@malakelbanna](https://malakelbanna.netlify.app/)
 
+My portfolio is built using React.js and a range of its libraries, including react-bootstrap, to create a sleek and interactive experience.
+
+What can you expect to find in my portfolio? Well, it showcases a diverse set of skills and projects that I've worked on. From web development to UI/UX design, I've poured my passion into every aspect. Additionally, I've included a collection of my original poems. So, if you have a moment, I hope you'll enjoy reading them!
+
 ## Home Page
 ![Home Page](https://github.com/malak-elbanna/personal-postfolio/blob/main/Screenshots/home%20page.png)
 
